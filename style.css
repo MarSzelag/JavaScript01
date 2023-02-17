@@ -1,0 +1,29 @@
+body {
+    background-color: lightsteelblue;
+    margin: auto;
+    width: 50%;
+    height: auto;
+    border: 2px solid slategrey;
+    padding: 50px;
+}
+
+hr.hrBlack {
+    border: 1px solid black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-color {
+    color: darkred;
+}
+
+.table-center {
+    margin-left: 10%;
+    margin-right: auto;
+}
+
+.thick {
+    font-weight: bold;
+}
